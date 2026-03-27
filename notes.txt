@@ -1,0 +1,4 @@
+Simple text file for testing.
+
+This file tests plain text processing.
+It should be cleaned and indexed by Glean.
